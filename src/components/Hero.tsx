@@ -58,7 +58,7 @@ export default function Hero() {
 
           <div className="order-1 md:order-2 flex justify-center">
             <img
-              src="/public/whatsapp261202.jpeg"
+              src="/whatsapp261202.jpeg"
               alt="Arjun Dey"
               className="w-full max-w-sm md:max-w-full rounded-2xl shadow-2xl object-cover hover:shadow-xl transition-shadow duration-300"
             />
